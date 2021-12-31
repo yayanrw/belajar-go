@@ -1,1 +1,1 @@
-# belajar-go
+# belajar-go-concurrency
